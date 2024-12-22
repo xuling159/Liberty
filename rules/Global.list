@@ -93,6 +93,7 @@ DOMAIN,cloud.oracle.com
 DOMAIN,location.microsoft.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,self.events.data.microsoft.com
+DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
 DOMAIN-SUFFIX,04647.club
